@@ -112,8 +112,8 @@
 
 1. **Clone repository**
    ```bash
-   git clone https://github.com/M-Bayu-Aji/Project-CRUD.git
-   cd Project-CRUD
+   git clone https://github.com/M-Bayu-Aji/Sistem-E-Commerce-Laravel.git
+   cd Sistem-E-Commerce-Laravel
    ```
 
 2. **Install dependensi PHP**
@@ -136,7 +136,7 @@
    DB_CONNECTION=mysql
    DB_HOST=127.0.0.1
    DB_PORT=3306
-   DB_DATABASE=project_crud
+   DB_DATABASE=sistem_ecommerce_laravel
    DB_USERNAME=username_anda
    DB_PASSWORD=password_anda
    ```
@@ -183,7 +183,7 @@ APP_URL=http://localhost
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=project_crud
+DB_DATABASE=sistem_ecommerce_laravel
 DB_USERNAME=root
 DB_PASSWORD=
 
@@ -333,7 +333,7 @@ Proyek ini dilisensikan di bawah Lisensi MIT - lihat file [LICENSE](LICENSE) unt
 
 ⭐ Beri bintang repo ini jika Anda merasa terbantu!
 
-[⬆️ Kembali ke Atas](#-project-crud---sistem-e-commerce-laravel)
+[⬆️ Kembali ke Atas](#-sistem-e-commerce-laravel)
 
 </div>
 
@@ -433,8 +433,8 @@ Proyek ini dilisensikan di bawah Lisensi MIT - lihat file [LICENSE](LICENSE) unt
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/M-Bayu-Aji/Project-CRUD.git
-   cd Project-CRUD
+   git clone https://github.com/M-Bayu-Aji/Sistem-E-Commerce-Laravel.git
+   cd Sistem-E-Commerce-Laravel
    ```
 
 2. **Install PHP dependencies**
@@ -457,7 +457,7 @@ Proyek ini dilisensikan di bawah Lisensi MIT - lihat file [LICENSE](LICENSE) unt
    DB_CONNECTION=mysql
    DB_HOST=127.0.0.1
    DB_PORT=3306
-   DB_DATABASE=project_crud
+   DB_DATABASE=sistem_ecommerce_laravel
    DB_USERNAME=your_username
    DB_PASSWORD=your_password
    ```
@@ -504,7 +504,7 @@ APP_URL=http://localhost
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=project_crud
+DB_DATABASE=sistem_ecommerce_laravel
 DB_USERNAME=root
 DB_PASSWORD=
 
@@ -654,22 +654,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ⭐ Star this repo if you find it helpful!
 
-[⬆️ Back to Top](#-project-crud---laravel-e-commerce-system)
+[⬆️ Back to Top](#-sistem-e-commerce-laravel)
 
 </div>
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
